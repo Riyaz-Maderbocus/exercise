@@ -1,3 +1,6 @@
 apples
 oranges
 pears
+toy story
+lion king
+snow white
